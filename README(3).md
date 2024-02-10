@@ -690,11 +690,12 @@ Der folgende Videoausschnitt zeigt wie das geht.
 
 # 13. Liascript auf Github hosten und verteilen 
 
+<div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
 
 
-Github ist eine tolle Option Liascript Datein zu verteilen.
+Github ist eine tolle Option Liascript zu bearbeiten und zu verteilen. Im folgenden Video wird gezeigt, wie man sich auf https://github.com/ regestriert und eine LiaScriptDatei in einem Repository hochläd und an Dritte mittels https://liascript.github.io/ verteilt.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tg-KJ516o08?si=jRpSQAxU1QbgzK8R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
