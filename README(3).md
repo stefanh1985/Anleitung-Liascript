@@ -686,7 +686,6 @@ Der folgende Videoausschnitt zeigt wie das geht.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GrXanapDLYA?si=5eJDmveChw6Qs8eK&amp;start=3275" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![Liascript Live Editor](64a63b05c01fe5fc8eca20b1bb9c416be68e72a4.jpg)
 
 # 13. Liascript auf Github hosten und verteilen 
 
