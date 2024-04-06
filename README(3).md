@@ -227,6 +227,10 @@ Wie würdest du eine Tabelle mit nur einer Schreibmaschine darstellen? Wahrschei
 
 !?[Tabellen](https://youtu.be/F-IsJn_pZ0E?si=YLGRp9wGyXCwp8RV)
 
+### 2.8.1 Tabellenautomat
+Einen Tabellenautomat findet sich hier:https://www.tablesgenerator.com/markdown_tables 
+
+
 # 3.Was ist LiaScript? 📄
 
 Markdown wird vor allem zur Erstellung von statischen Texten und zum Bloggen geeignet, LiaScript erweitert diese Syntax um verschiedene interaktive Elemente, wie Animationen, Sprachausgaben, Quizze, Multimedia, ASCII-Art, interaktive Tabellen und Programmierung, sowie vieles mehr auf das in den folgenden Abschnitten näher eingegangen werden soll…
@@ -696,8 +700,8 @@ Github ist eine tolle Option Liascript zu bearbeiten und zu verteilen. Im folgen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tg-KJ516o08?si=jRpSQAxU1QbgzK8R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
+# 14. Abschlussquiz und Versuchsaufgaben
+Zum Schluss findet sich hier noch ein Abschlussquiz mit Versuchsaufgaben: https://commonmark.org/help/tutorial/
 
 
 
